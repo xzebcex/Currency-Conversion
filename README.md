@@ -16,7 +16,7 @@ This Python script uses the forex python package to easily convert between diffe
 Installing the forex python library is necessary for this script. Pip may be used to install it: pip install forex python
 ## How to Install and Run the Project
 1.	Start by downloading or cloning the project.
-2.	Using pip, install the forex python library..
+2.	Using pip, install the forex python library.
 3.	3. Launch the project in the Python environment of your choice.
 4.	Run the script.
 
@@ -28,7 +28,7 @@ Installing the forex python library is necessary for this script. Pip may be use
 5.	The script will then output the conversion information as well as the converted rate.
 It should be noted that the script will output an error message if any issues occur during the converting process.
 ## License
-Feel free to change and use it as you see fit..
+Feel free to change and use it as you see fit.
 
 ## How to Contribute to the Project
 1.	Create your own GitHub account and fork the project.
