@@ -24,7 +24,7 @@ try:
     output = converter.convert(from_currency, to_currency, amount)
 
     # Print the converted rate
-    print('The converted rate is', output)
+    print(f'The converted rate is {output}')
 
 except Exception as e:
     print("An error occurred: ", str(e))
